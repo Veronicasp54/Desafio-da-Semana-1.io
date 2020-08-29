@@ -1,17 +1,39 @@
 
+body{
+    margin: 2%;
+}
+#content {
+    padding-left: 4%;
+}
+#titulo{
+    
+}
 
-#cabecalho{
+hr {
+    margin: 40px 0;
+  }
 
+.subtitulo{
+    font-size: 1.6em;
+}
+
+.topicos{
+    padding-left: 4%;
+}
+
+.topicos p, li, br{
+    font-size: 1em;
 }
 
 #div-um{
-
+    background-color: aquamarine;
 }
 
 #div-dois{
-
+    background-color: bisque;
 }
 
-p{
-    
+#div-tres{
+    background-color: coral;
 }
+
