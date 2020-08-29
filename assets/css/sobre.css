@@ -1,12 +1,13 @@
 
 body{
     margin: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #content {
     padding-left: 4%;
 }
-#titulo{
-    
+h1, h2{
+    color: cornflowerblue;
 }
 
 hr {
@@ -21,19 +22,31 @@ hr {
     padding-left: 4%;
 }
 
-.topicos p, li, br{
+.topicos li, p{
     font-size: 1em;
 }
 
 #div-um{
-    background-color: aquamarine;
+    background-color: lightblue;
 }
 
+#div-um h2{
+    color: cornflowerblue;
+}
+
+#div-general{
+    display: inline-block;
+    width: 100%;
+}
 #div-dois{
+    width: 50%;
     background-color: bisque;
+    float: left;
 }
 
 #div-tres{
+    width: 50%;
     background-color: coral;
+    float: right;
 }
 
