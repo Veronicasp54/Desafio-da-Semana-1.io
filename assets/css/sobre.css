@@ -1,11 +1,11 @@
 
 body{
-    margin: 4%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #content {
     padding-left: 6%;
     padding-right: 6%;
+
 
 }
 h1, h2{
@@ -60,3 +60,37 @@ hr {
     float: right;
 }
 
+#footer{
+    width: 100%;
+    display: inline-block;
+    text-decoration: inherit;
+    list-style-type: none;
+    background-color: lavender;
+
+}
+
+#footer li{
+    list-style-type: none;
+
+}
+
+#footer-div-um{
+    float: left;
+    width: 25%;
+    -moz-text-decoration-style: inherit;
+    font-size: 0.9em;
+
+}
+
+
+#footer-div-dois{
+    float: left;
+    width: 25%;
+    text-decoration: inherit;
+    font-size: 0.9em;
+
+}
+
+small{
+    float: right;
+}
