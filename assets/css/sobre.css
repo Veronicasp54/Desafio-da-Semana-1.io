@@ -44,9 +44,6 @@ hr {
     margin-bottom: 4%;
 }
 
-#div-um h2{
-}
-
 #div-general{
     display: inline-block;
     width: 100%;
@@ -79,7 +76,6 @@ hr {
 #footer-div-um{
     float: left;
     width: 25%;
-    -moz-text-decoration-style: inherit;
     font-size: 0.9em;
 
 }
