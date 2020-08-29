@@ -1,10 +1,12 @@
 
 body{
-    margin: 2%;
+    margin: 4%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #content {
-    padding-left: 4%;
+    padding-left: 6%;
+    padding-right: 6%;
+
 }
 h1, h2{
     color: cornflowerblue;
@@ -20,18 +22,27 @@ hr {
 
 .topicos{
     padding-left: 4%;
+    display: inline-block;
+    width: 100%;
+}
+
+.topico{
+    font-size: 2.4em;
+    color: darkgrey;
+    float: left;
+    margin-right: 2%;
+    margin-top: 1%;
 }
 
 .topicos li, p{
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 #div-um{
-    background-color: lightblue;
+    margin-bottom: 4%;
 }
 
 #div-um h2{
-    color: cornflowerblue;
 }
 
 #div-general{
@@ -39,14 +50,13 @@ hr {
     width: 100%;
 }
 #div-dois{
-    width: 50%;
-    background-color: bisque;
+    width: 47%;
     float: left;
+    padding-right: 6%;
 }
 
 #div-tres{
-    width: 50%;
-    background-color: coral;
+    width: 47%;
     float: right;
 }
 
