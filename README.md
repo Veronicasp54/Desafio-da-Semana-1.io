@@ -11,9 +11,10 @@ Foi necessária a escolha de um dos Objetivos de desenvolvimetno Sustentável, p
 
 # Desafios Semanais
  1. Desafio Semanal
- 
-![Desafio] (assets/imagens/desafioImgUm.png)
+
+![Desafio Um](desafioImgUm.png)
 ![Desafio Dois](desafioImgDois.png)
+![Desafio Tres](desafioImgTres.png)
 
 
  ![Desafio 1] (D1-imagem-dois.png)
