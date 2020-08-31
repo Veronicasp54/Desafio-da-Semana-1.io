@@ -17,9 +17,6 @@ Foi necessária a escolha de um dos Objetivos de desenvolvimetno Sustentável, p
 ![Desafio Tres](desafioImgTres.png)
 
 
- ![Desafio 1] (D1-imagem-dois.png)
-
-
 ## Authors
 * **Verônica Souza**
 
