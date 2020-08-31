@@ -1,4 +1,3 @@
-# Meu-primeiro-site-JA.io
 
 # Projeto "Meu Primeiro Site"
    
