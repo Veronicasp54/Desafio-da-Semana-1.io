@@ -1,7 +1,9 @@
 
 html{
     width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 body {
     display: flex;
     min-height: 100vh;
@@ -46,7 +48,6 @@ main {
     border-radius: 8px;
     border: 1px solid white;
     color: #fff;
-    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.2em;
     line-height: 25px;
     text-align: center;
@@ -192,3 +193,30 @@ main {
 iframe{
     padding: 4%;
 }
+
+
+/* Menu */
+.menu {
+    background-color: #FDD835;
+    overflow: hidden;
+    align-items: flex-end;
+  }
+  
+  .menu a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .menu a:hover {
+    background-color: #FFF176;
+    color: black;
+  }
+  
+  .menu a.active {
+    background-color: #FFF176;
+    color: black;
+  }
