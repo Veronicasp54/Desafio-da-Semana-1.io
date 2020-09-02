@@ -1,7 +1,6 @@
 
 html{
     width: 100%;
-    height: 100%;
 }
 body {
     display: flex;
@@ -10,16 +9,9 @@ body {
     margin-top: 0%;
   }
 
-  main {
+main {
     flex: 1 0 auto;
   }
-
-#content{
-    width: 100%;
-    height: 100%;
-    margin: 0%;
-    padding: 0%;
-}
 
 #painel-um{
     width: 100%;
@@ -29,8 +21,12 @@ body {
     text-align: center;
     color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    display: inline-block;
 }
+
+#painel-um img{
+    opacity: 0.5;
+}
+
 
 #painel-um p{
     font-size: 1.4em;
@@ -77,10 +73,17 @@ body {
     display: inline-block;
     padding-top:4%;
     padding-bottom: 4.4%;
-
 }
 
-#div-dois{
+
+#painel-dois h1{
+    padding: 6%;
+    text-align: center;
+    background-color: #fffde7;
+    margin-top: 10%;
+}
+
+.div-um{
     width: 40%;
     float: left;
     padding-right: 4%;
@@ -88,7 +91,7 @@ body {
 
 }
 
-#div-tres{
+.div-dois{
     width: 50%;
     float: right;
     padding-left: 2.6%;
@@ -111,7 +114,7 @@ body {
 
 .topico{
     font-size: 2.4em;
-    color: darkgrey;
+    color: black;
     float: left;
     margin-right: 2%;
     margin-top: 1%;
@@ -123,10 +126,55 @@ body {
 
 #painel-tres{
     width: 100%;
-    background-color: #FFF176;
+    background-color: #fffde7;
     height:600px;
     font-size: 1.2em ;
     padding-bottom: 6%;
+}
+
+#painel-quatro{
+    width: 100%;
+    background-color: #FFF176;
+    height:600px; 
+    font-size: 0.9em;
+    padding-bottom: 8%;
+    padding-top:4%;
+}
+
+.div-um img{
+    width: 400px;
+    height: 280px;
+    float: left;
+    padding-left: 10%;
+    padding-top: 2%;
+    border: blacks;
+}
+
+#quadro-um{
+    width: 40%;  
+    padding-left: 4%;  
+}
+
+
+#quadro-dois{
+    width: 40%;   
+    padding-right: 8%; 
+}
+
+
+#painel-cinco{
+    width: 100%;
+    background-color: #fffde7;
+    height:600px;
+    font-size: 0.9em;
+    padding-bottom: 6%;
+    padding-top:4%;
+}
+
+#painel-cinco img{
+    width: 466px;
+    height: 514px;
+    padding: 2%;
 }
 
 #texto{
@@ -138,4 +186,9 @@ body {
 }
 .fonte{
     text-align: right;
+    padding-top: 2.8%;
+}
+
+iframe{
+    padding: 4%;
 }
