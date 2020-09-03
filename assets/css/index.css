@@ -199,7 +199,9 @@ iframe{
 .menu {
     background-color: #FDD835;
     overflow: hidden;
-    align-items: flex-end;
+    width: 100%;
+    position: fixed;
+
   }
   
   .menu a {
@@ -219,4 +221,15 @@ iframe{
   .menu a.active {
     background-color: #FFF176;
     color: black;
+  }
+
+  .footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: static;
   }
