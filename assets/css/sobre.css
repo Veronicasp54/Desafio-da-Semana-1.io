@@ -1,17 +1,10 @@
 
-body{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    margin-left: 6%;
-    margin-right: 6%;
-}
 #content {
     padding-left: 6%;
     padding-right: 6%;
-
-
 }
 h1, h2{
-    color: cornflowerblue;
+    color: black;
 }
 
 hr {
@@ -59,7 +52,7 @@ hr {
     float: right;
 }
 
-#footer{
+.footer{
     width: 100%;
     display: inline-block;
     text-decoration: inherit;
@@ -68,12 +61,12 @@ hr {
 
 }
 
-#footer li{
+.footer li{
     list-style-type: none;
 
 }
 
-#footer-div-um{
+.footer-div-um{
     float: left;
     width: 25%;
     font-size: 0.9em;
@@ -81,7 +74,7 @@ hr {
 }
 
 
-#footer-div-dois{
+.footer-div-dois{
     float: left;
     width: 25%;
     text-decoration: inherit;
