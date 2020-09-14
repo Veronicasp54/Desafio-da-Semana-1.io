@@ -30,18 +30,20 @@ p{
     position: fixed;
     width: 100%;
     top: 0;
+
   }
 
   .menu img{
       width: 12%;
       padding: 0.8%;
+      margin-left: 0.6%;
   }
   
   .menu a {
     float: right;
     color: black;
     text-align: right;
-    padding: 14px 16px;
+    padding: 16px 18px;
     text-decoration: none;
     font-size: 1.2em;
     margin-right: 16px;
