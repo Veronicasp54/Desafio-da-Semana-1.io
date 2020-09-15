@@ -1,7 +1,10 @@
 #content{
     background-color: #fffde7;
     padding-top: 8%;
+    padding-left: 6%;
+    padding-right: 6%;
 }
+
 
 #content a{
     text-decoration: none;
@@ -37,4 +40,41 @@ h1{
     background-color: #fde268;
     height:540px;
 
+}
+
+.topicos{
+    padding-left: 4%;
+    display: inline-block;
+    width: 100%;
+}
+
+.topico{
+    font-size: 2.4em;
+    color: darkgrey;
+    float: left;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+.topicos li, p{
+    font-size: 1.2em;
+}
+
+#div-um{
+    margin-bottom: 4%;
+}
+
+#div-general{
+    display: inline-block;
+    width: 100%;
+}
+#div-dois{
+    width: 47%;
+    float: left;
+    padding-right: 6%;
+}
+
+#div-tres{
+    width: 47%;
+    float: right;
 }
