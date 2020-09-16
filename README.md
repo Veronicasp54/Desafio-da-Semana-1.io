@@ -9,13 +9,6 @@ O  ***Meu Primeiro Site*** é um programa gratuito para jovens que se interessam
 Foi necessária a escolha de um dos Objetivos de desenvolvimetno Sustentável, porposto pela agend da ONU. No meu projeto resolvi criar um website voltado para enfatizar a importância da educação e possuir informações sobre os objetivos da Onu dentro desta temática.
 **Mais informações sobre a ODS4:** https://nacoesunidas.org/pos2015/ods4/
 
-# Background do Site: +Educação
- 1. Home
-
-![Desafio Um](desafioImgUm.png)
-![Desafio Dois](desafioImgDois.png)
-![Desafio Tres](desafioImgTres.png)
-
 
 ## Authors
 * **Verônica Souza**
