@@ -102,7 +102,7 @@ main {
 #painel-dois{
     width: 100%;
     background-color: #fef0b3;
-    height:640px;
+    height:auto;
     display: inline-block;
     padding-top:4%;
     padding-bottom: 8%;
@@ -166,18 +166,26 @@ main {
 #painel-tres{
     width: 100%;
     background-color: #fffde7;
-    height:600px;
+    height:auto;
     font-size: 1.2em ;
     clear: both;
-    padding-bottom: 26%;
+}
+
+
+#texto{
+    padding-top: 4%;
+    text-align: left;
+    font-size: 1em;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 #painel-quatro{
     width: 100%;
     background-color: #fef0b3;
-    height:660px; 
+    height:auto; 
     font-size: 0.9em;
-    padding-bottom:10%;
+     /*-bottom:10%; */
     padding-top:4%;
     clear: both;
 }
@@ -206,13 +214,6 @@ main {
 
 }
 
-#texto{
-    padding-top: 4%;
-    text-align: left;
-    font-size: 1em;
-    padding-left: 4%;
-    padding-right: 4%;
-}
 .fonte{
     text-align: right;
     padding-top: 2.8%;
@@ -221,3 +222,18 @@ main {
 iframe{
     padding: 4%;
 }
+
+ /*
+@media only screen and (max-width:620px) {
+    /* For mobile phones: 
+    .menu, .main, .right, .footer {
+      width:100%;
+    }
+
+    #quadro-um, quadro-dois{
+        display: inline;
+        float: left;
+
+    }
+  }
+  */
