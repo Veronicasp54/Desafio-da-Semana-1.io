@@ -1,12 +1,12 @@
 #content{
     background-color: #fffde7;
     padding-top: 8%;
-    padding-left: 6%;
+    padding-left: 4%;
     padding-right: 6%;
 }
 
 
-#content a{
+ a{
     text-decoration: none;
 }
 
@@ -31,13 +31,13 @@ h1{
 }
 
 #div-dois{    
-    background-color: #fde268;
+    background-color: #fef0b3;
     height:540px;
 
 }
 
 #div-tres{    
-    background-color: #fde268;
+    background-color: #fef0b3;
     height:540px;
 
 }
